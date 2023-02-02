@@ -1,4 +1,4 @@
-# Hello Everyone 😊👋
+# <h2 align="center"> Hello Everyone 😊👋,This is Nirav Patel </h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90965107/216408397-75ddead8-76a3-4c96-8d42-ec15befe01c8.gif" height="300px" width="300px" alt="custom image"/>
 </p>
