@@ -1,7 +1,7 @@
 ### Hi there 👋
-![dev](https://user-images.githubusercontent.com/90965107/216404100-daeaaae7-8e8b-4275-8548-2e9ae2b19700.gif)
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90965107/216408397-75ddead8-76a3-4c96-8d42-ec15befe01c8.gif" height="300px" width="300px" alt="custom image"/>
+</p>
 
 <!--
 **NIRAV-PATEL-15/NIRAV-PATEL-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
