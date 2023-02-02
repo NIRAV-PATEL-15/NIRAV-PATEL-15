@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a CSE 3rd year student at RK University, Rajkot. 
 - 🌱 I’m currently learning React.js and ASP.NET
 - 💬 Ask me about WEB Development and APP Development
-- ⚡Technologies:
-1) Front-end development using HTML5, CSS3, JS, React,.
-2) Backend development using Node, Express.
-3) Architectural design for Relational Database Management Systems as well as for NoSQL database systems like MongoDB,FireBase.
-4) Robust full-stack system design implementation.
-5) Others : C, JAVA, PYTHON,MY SQL, PL/SQL 
+### ⚡Technologies:
++ Front-end development using HTML5, CSS3, JavaScript, React.
++ Backend development using Node, Express,ASP.NET, C#.
++ Architectural design for Relational Database Management Systems as well as for NoSQL database systems like MongoDB,FireBase.
++ Robust full-stack system design implementation.
++  Others : C, JAVA, PYTHON, MY SQL, PL/SQL, PHP, LARAVEL
 # 📫 How to reach me: 
 ### Email : 
 - patel099688@gmail.com
