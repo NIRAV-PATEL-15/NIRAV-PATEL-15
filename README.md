@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js and ASP.NET
 - 💬 Ask me about WEB Development and APP Development
 ### ⚡Skills and Technologies:
-+ Programming languages: Java, Python, R, C, JavaScript, Go
++ Programming languages: Java, Python, R, C, JavaScript
 + Web development: HTML, CSS, JavaScript, React, Node.js, ASP.NET
-+ Databases: MySQL, MongoDB, FireBase, PhpMyAdmin
++ Databases: MySQL, MongoDB, FireBase
 + Cloud computing:  Google Cloud Platform (GCP) 
   - Google cloud Ready Facilator programe 2022
   - Google cloud 30 days challange
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - npatel046@rku.ac.in
 ### online profiles
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> : https://www.linkedin.com/in/nirav-patel-np/
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : 
+<!-- - <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> :  -->
 - <img style="margin-top:2px;" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />   :  https://www.cloudskillsboost.google/public_profiles/0ba42488-9d26-44d0-8219-49be0a4bed9d
 
 
