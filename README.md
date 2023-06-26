@@ -9,8 +9,8 @@
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a CSE 3rd year student at RK University, Rajkot. 
-- 🌱 I’m currently learning React.js and ASP.NET
+- 🔭 I’m currently a CSE 4<sup>th</sup> year student at RK University, Rajkot. 
+- 🌱 I’m currently learning Angular and Ios
 - 💬 Ask me about WEB Development and APP Development
 ### ⚡Skills and Technologies:
 + Programming languages: Java, Python, R, C, JavaScript
