@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a CSE 4<sup>th</sup> year student at RK University, Rajkot.
-- 🔭 Currently Trainee Software Developer at Inventyv Software services pvt. ltd, Ahmedabafd. 
+- 🔭 Currently Trainee Software Developer at Inventyv Software services pvt. ltd : https://www.linkedin.com/in/nirav-patel-np/, Ahmedabad. 
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about WEB Development and APP Development
 ### ⚡Skills and Technologies:
