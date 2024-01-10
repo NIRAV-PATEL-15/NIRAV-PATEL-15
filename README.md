@@ -11,15 +11,16 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a CSE 4<sup>th</sup> year student at RK University, Rajkot.
 - 🔭 Currently Trainee Software Developer at Inventyv Software services pvt. ltd , Ahmedabad. 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Rust.
 - 💬 Ask me about WEB Development and APP Development
 ### ⚡Skills and Technologies:
-+ Programming languages: Java, Python, R, C, JavaScript
-+ Web development: HTML, CSS, JavaScript, React, Node.js, ASP.NET
-+ Databases: MySQL, MongoDB, FireBase
++ Programming languages: Java, Python, R, C, JavaScript,TypeScript,Rust
++ Web development: HTML, CSS, JavaScript, React, Node.js, ASP.NET,Angular
++ Databases: MySQL, MongoDB, FireBase,Couchbase
 + Cloud computing:  Google Cloud Platform (GCP) 
   - Google cloud Ready Facilator programe 2022
   - Google cloud 30 days challange
+  - AWS EC2,S3,Serverless computing(Lambda),SQS
   
 # 📫 How to reach me: 
 ### Email : 
