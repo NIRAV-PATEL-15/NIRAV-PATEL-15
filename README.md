@@ -83,11 +83,11 @@ I enjoy solving challenging engineering problems—optimizing pipelines, rewriti
 
 ---
 
-## 📊 GitHub Stats (Optional – Add if you like visuals)
+<!-- ## 📊 GitHub Stats (Optional – Add if you like visuals)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NIRAVPATEL-15&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRAVPATEL-15&layout=compact&theme=tokyonight" height="165"/>
-</p>
+</p> -->
 
 ---
 
